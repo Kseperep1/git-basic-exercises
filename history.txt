@@ -1,0 +1,266 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  sudo apt -get install VSCode
+    4  VSCode
+    5  vsode
+    6  vscode
+    7  code
+    8  sudo apt upgrade
+    9  pyphon
+   10  python
+   11  python3
+   12  node odne.js 
+   13  sudo apt update
+   14  sudo apt upgrade
+   15  sudo apt update
+   16  code
+   17  code blue.py
+   18  sudo apt-get install vim
+   19  sudo apt-get install git
+   20  sudo apt update
+   21  sudo apt upgrade
+   22  clear
+   23  git config --global user.name Kamogelo
+   24  git config --global user.email kamogelo40@gmail.com
+   25  git config --global init.defaultBranch main
+   26  git config --global color.ui auto
+   27  git config--get  user.name
+   28  git config --get  user.name
+   29  git config --get  user.email
+   30  ls ~/.ssh/id_rsa.pub
+   31  ls~/.ssh/id_rsa.pub
+   32  ssh-keygen -C Kamogelo40@gmail.com
+   33  cat ~/.ssh/id_rsa.pub
+   34  node
+   35  nodejs
+   36  sudo apt imstall nodejs
+   37  sudo apt install nodejs
+   38  sudo apt install curl
+   39  curl -fsSL https://deb.nodesource.com/setup_15.x | sudo -E bash -
+   40  sudo apt-get install -y nodejs
+   41  mkdir nodejs
+   42  code nodejs/
+   43  sudo apt-get install apache2
+   44  sudo apt-get install php libapache2-mod-php
+   45  php -v
+   46  cd /var/www/html/
+   47  ls -la
+   48  sudo vim index.html 
+   49  sudo vim index.php
+   50  ls -la
+   51  clear
+   52  sudo gedit /etc/apache2/mods-available/dir.conf
+   53  sudo service apache2 restart
+   54  sudo chown codemaster:codemaster -R ./
+   55  ls -la
+   56  sudo gedit /etc/apache2/envvars
+   57  sudo service apache2 restart
+   58  ls -la
+   59  sudo apt-get install mysql-server
+   60  sudo service mysql status
+   61  clear
+   62  sudo apt-get install phpmyadmin
+   63  sudo mysql
+   64  git
+   65  sudo apt install linux-headers-$(uname-r) build-essential dkms
+   66  sudo apt update
+   67  sudo apt upgrade
+   68  ls
+   69  cd Desktop/
+   70  ls
+   71  cd ..
+   72  cd Documents/
+   73  ls
+   74  ls -la
+   75  sudo apt-get install vlc
+   76  cd ..
+   77  sudo apt-get install wine
+   78  clear
+   79  code index.html
+   80  sudo update
+   81  ls
+   82  cd Desktop/
+   83  ls 
+   84  ls -la
+   85  pwd
+   86  cd ../Documents/
+   87  ls 
+   88  ls -la
+   89  mkdir Folder
+   90  ls
+   91  rm Play/
+   92  dirrm Play/
+   93  mv Play Folder
+   94  ls
+   95  cd Folder/
+   96  ls
+   97  \cd Play/
+   98  ls
+   99  cd
+  100  ls
+  101  ssh root@35.172.164.53
+  102  sudo upgrade
+  103  sudo apt upgrade
+  104  ssh root@35.172.164.53
+  105  sudo apt-get update
+  106  sudo apt-get dist-upgrade
+  107  sudo apt-get upgrade
+  108  sudo aptupgrade
+  109  sudo apt upgrade
+  110  cd var/lib/dpkg/
+  111  pwd
+  112  ls
+  113  ls -l
+  114  ls -la
+  115  cd Desktop/
+  116  ls
+  117  ls -la
+  118  pwd
+  119  cd ..
+  120  pwd
+  121  cd
+  122  pwd
+  123  cd Documents/
+  124  ls
+  125  cd Folder/
+  126  ls
+  127  cd Play/
+  128  ls
+  129  cd.. /..
+  130  cd ../ ..
+  131  cd ../ ../
+  132  cd ../../
+  133  sudo upgrade
+  134  sudo apt upgrade
+  135  sudo apt update
+  136  sudo apt upgrade
+  137  sudo apt update
+  138  sudo apt upgrade
+  139  ssh root@35.172.164.53
+  140  clear
+  141  sudo apt upgrade
+  142  clear
+  143  ssh root@35.172.164.53
+  144  ls
+  145  sudo apt upgrade
+  146  ssh root@35.172.164.53
+  147  clear
+  148  ls
+  149  ls -l
+  150  ls -la
+  151  ls
+  152  cd desktop
+  153  cd Desktop/
+  154  ls
+  155  pwd
+  156  cd ..
+  157  cd
+  158  cd Documents/
+  159  ls
+  160  cd Folder/
+  161  cd Play/
+  162  cd
+  163  cd Documents/Folder/Play/
+  164  cd ..
+  165  cd Folder/
+  166  cd
+  167  cd Documents/Folder/Play/
+  168  pwd
+  169  code index.py
+  170  ls
+  171  sudo apt-get chrome
+  172  cd
+  173  ssh root@35.172.164.53
+  174  sudp apt-get update
+  175  sudo apt-get update
+  176  sudo apt-get upgrade
+  177  pwd
+  178  ls
+  179  cd Documents/JS\ Projects/
+  180  ls
+  181  node console.log\(\"Winning\"\)\;.js 
+  182  git --version
+  183  mkdir git-basic-exercises
+  184  ls
+  185  cd git-basic-exercises/
+  186  ls -l
+  187  git inint
+  188  git init
+  189  ls -l
+  190  git status
+  191  touch README.md
+  192  ls -l
+  193  git status
+  194  git log
+  195  git add
+  196  git add README.md 
+  197  git status
+  198  cd ..
+  199  git clone git@github.com:Umuzi-org/Kamogelo-Seperepere-606-tilde-project-tutorial-how-repo-projects-work-.git
+  200  ls
+  201  cd Kamogelo-Seperepere-606-tilde-project-tutorial-how-repo-projects-work-/
+  202  ls
+  203  touch markdown.md
+  204  cd ..
+  205  ls
+  206  cd git-basic-exercises/
+  207  ls
+  208  git status
+  209  git rm --cached README.md 
+  210  git status
+  211  git add README.md 
+  212  git commit -m "initial commit"
+  213  git log
+  214  q
+  215  nano README.md 
+  216  cat README.md 
+  217  git status
+  218  git commit -m "second commit"
+  219  nano README.md 
+  220  git log
+  221  git status
+  222  git add README.md 
+  223  git status
+  224  git commit -m "second commit"
+  225  nano README.md 
+  226* 
+  227  nano README.md 
+  228  git commit -m "secod commit"
+  229  git add README.md 
+  230  git commit -m "third commit"
+  231  git status
+  232  git log
+  233  git checkout f02a4bfd0ff061b9ae8e31d75272393e021e54bf
+  234  cat README.md 
+  235  git checkout main
+  236  git log
+  237  git checkout main
+  238  git checkout 948f2da52231fa4836e02a27879edcc9fc4c0dff
+  239  cat README.md 
+  240  nano README.md 
+  241  git branch
+  242  git checkout -b milkshake-flavours
+  243  git checkout master
+  244  ls
+  245  git checkout milkshake-flavours 
+  246  ls
+  247  git branch
+  248  git log
+  249  git checkout master
+  250  git branch
+  251  nano README.md 
+  252  git checkout milkshake-flavours 
+  253  nano milkshakes.md
+  254  git status
+  255  nano README.md 
+  256  git add milkshakes.md 
+  257  git commit -m "added initial flavours"
+  258  git log
+  259  git checkout master
+  260  git log
+  261  ls
+  262  git branch -b history
+  263  git checkout -b history
+  264  git log
+  265  git branch
+  266  history > history.txt
